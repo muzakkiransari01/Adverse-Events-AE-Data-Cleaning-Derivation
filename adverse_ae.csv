@@ -1,0 +1,11 @@
+patient_id,ae_term,ae_start,ae_end,seriousness,outcome,action_taken,relation
+p001,headache,01-03-2023,05-03-2023,Y,recovered,None,related
+002,Nausea,2023/03/05,2023-03-08,n,Recovering,dose reduced,Possible
+P003,dizziness,10/03/23,15/03/2023,YES,Not Recovered,Drug stopped,NOT related
+p#004,rash,12-03-2023,NA,no,ongoing,none,unlikely
+05,FEVER,15.03.2023,18.03.23,y,Fatal,DRUG STOPPED,Related
+p006,Vomting,2023-03-17,2023-03-19,Y,RECOVERED,-,POSSIBLE
+007,Fatigue,17/03/2023,21/03/2023,n0,recoverd,None,RELATED
+p008,chest pain,2023/03/22,,Y,Not recovered,dose Reduced,not related
+P009,INSOMNIA,03-23-2023,03-25-23,Yes,Recovered,Drug STOPPED,Unlikely
+010,cough,NA,NA,N,Ongoing,none,possible
